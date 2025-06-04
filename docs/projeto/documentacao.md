@@ -45,4 +45,7 @@ Mais do que uma conveniência técnica, o uso de PaaS foi uma decisão estratég
 
 ### Tarefa 7
 
+Video de todas as rotas funcionando com deploy menos o Order:
+
+https://www.youtube.com/watch?v=6-eX7mBU0jk
 
